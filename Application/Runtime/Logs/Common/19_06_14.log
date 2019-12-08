@@ -1,0 +1,4028 @@
+[ 2019-06-14T15:05:26+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:05:26+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:05:26+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:05:30+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002021s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:05:30+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:05:30+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002581s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:07:15+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+ERR: 无法加载模块:Public
+
+
+
+[ 2019-06-14T15:07:15+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:07:51+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001425s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:07:51+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002792s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:07:51+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001685s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:08:42+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001242s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:08:42+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:08:42+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:11+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:11+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001447s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:11+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001647s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:11+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:11+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001410s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:11+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:17+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001604s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:17+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:18+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:18+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001856s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:18+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001724s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:21+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:21+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:21+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:24+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:24+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:24+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:28+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001286s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:28+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:28+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:34+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002823s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:34+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005544s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:34+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001359s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:38+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:38+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002863s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:38+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001482s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:39+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:39+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:39+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:43+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:43+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:09:43+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001017s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:01+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001682s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004199s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:19+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:19+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:19+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001450s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:56+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003729s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:56+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:10:56+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:23+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:23+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001595s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:23+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:29+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001433s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:29+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001221s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:29+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001896s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:32+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001009s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:32+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:32+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:32+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002879s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:32+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:32+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:33+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:33+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:33+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:37+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:37+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:37+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:38+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001042s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:38+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:38+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001406s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:42+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006200s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:42+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:42+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:47+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:47+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:47+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:47+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001315s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:47+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:47+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004244s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:48+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:48+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:11:48+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:15+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:15+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001006s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:15+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:33+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001012s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:33+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:33+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003845s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:35+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001577s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:35+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:15:35+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001481s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001489s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001853s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:01+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:02+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:02+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:02+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001137s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:56+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:56+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001323s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:16:56+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:18:48+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:18:48+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:18:48+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:37:25+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001610s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:37:25+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001653s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:37:25+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003017s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:37:43+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:37:43+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:37:43+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:38:14+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:38:14+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001286s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:38:58+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001399s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:38:58+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:38:58+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001822s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:39:26+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001637s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:39:26+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:39:27+08:00 ] ::1 /bootstrap/Public/showQuestion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:39:27+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:40:16+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:40:16+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001180s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:40:16+08:00 ] ::1 /bootstrap/Public/showQuestion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000376s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002083s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:40:16+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002058s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:43:53+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:43:53+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:43:53+08:00 ] ::1 /bootstrap/Public/showQuestion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002453s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:43:53+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:44:27+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:44:27+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:44:27+08:00 ] ::1 /bootstrap/Public/showQuestion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:44:27+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001644s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:22+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001373s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:22+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006911s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:22+08:00 ] ::1 /bootstrap/Public/showQuestion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006036s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:22+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003631s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:23+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001830s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:23+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001748s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:23+08:00 ] ::1 /bootstrap/Public/showQuestion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:23+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:51+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:51+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:45:52+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001512s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:46:00+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001474s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:46:00+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:46:00+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004485s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:47:43+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001565s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:47:43+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001875s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:47:43+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004231s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:47:44+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:47:44+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:47:44+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:49:55+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001658s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:49:55+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006130s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:49:55+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:49:57+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:49:57+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:49:57+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002375s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:50:55+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:50:55+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:50:55+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:52:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002173s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:52:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:52:01+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:53:49+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001618s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:53:49+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:53:49+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:06+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:06+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003003s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:06+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:08+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:08+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001077s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:08+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002936s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:08+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:08+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:08+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:09+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:09+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T15:54:09+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:00:48+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:00:48+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:00:48+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001983s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:00:57+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:00:57+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:00:57+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001616s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:31+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002060s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:31+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:31+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001174s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:50+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:50+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004391s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:50+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:55+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002661s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:55+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:08:55+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:09:13+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:09:13+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001869s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:09:13+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001468s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:12:27+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002456s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:12:27+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:12:27+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:12:32+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:12:32+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001438s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:12:32+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:18:31+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001636s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:18:31+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:18:31+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001245s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:19:06+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:19:06+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001727s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:19:06+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003132s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:20:32+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001247s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:20:32+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001443s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:20:32+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:22:58+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:22:58+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:22:58+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:23:00+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004068s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:23:00+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001652s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:23:00+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:23:18+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:23:18+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:23:18+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001402s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:24:14+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002672s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:24:14+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001389s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:24:14+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002340s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:07+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001604s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:07+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030008s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:07+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:21+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002345s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:21+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:21+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:21+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002018s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:21+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:21+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001047s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:37+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002149s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:37+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:28:37+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:01+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001567s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003288s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:22+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001438s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:22+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:22+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001570s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:51+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:51+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:29:51+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:30:13+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:30:13+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001758s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:30:13+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001176s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:31:40+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:31:40+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003427s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:31:40+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:37+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:37+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:37+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001325s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:38+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003508s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:38+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:38+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001403s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:47+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:47+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:47+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:48+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:48+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:48+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:56+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001528s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:56+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001478s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:32:56+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:45+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001577s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:45+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001605s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:45+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002441s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:47+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:47+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:47+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:55+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:55+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:34:55+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002335s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:08+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:08+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001599s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:08+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001810s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:30+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:30+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002434s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:30+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:57+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000187s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001818s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:57+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:35:57+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:36:44+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:36:44+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:36:44+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:36:54+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:36:54+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:36:54+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:25+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:25+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:25+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001949s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:36+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:36+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001449s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:36+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002431s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:55+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001672s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:55+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:37:55+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:38:22+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:38:22+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:38:22+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:38:56+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:38:56+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:38:56+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001406s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:08+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001723s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:08+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:08+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:39+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:40+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:40+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002054s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:40+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:40+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:40+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:49+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:49+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001795s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:49+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:50+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:50+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:50+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002822s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:55+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001974s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:55+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001427s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:39:55+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001392s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:06+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001636s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:06+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:06+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:09+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:09+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:09+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002675s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:26+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001614s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:26+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:26+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:32+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001826s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:32+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:32+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:47+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000175s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001998s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:47+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:40:47+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:08+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:09+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:09+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:23+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:23+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002725s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:24+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001537s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:43+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:43+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:43+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:50+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001375s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:50+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001496s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:41:50+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:11+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001631s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:11+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001965s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:11+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:22+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:22+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:22+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:30+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001307s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:30+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:30+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:44+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001241s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:44+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001517s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:42:44+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:12+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:12+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001300s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:12+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001828s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:19+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:19+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001805s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:19+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:38+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001823s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:38+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:43:38+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:00+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001492s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:00+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:00+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002525s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:06+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:06+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:06+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002876s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:11+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001251s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:12+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001534s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:12+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001181s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:37+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:37+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:44:37+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:45:09+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001568s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:45:09+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:45:09+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002544s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:12+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:12+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:12+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001580s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:19+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001240s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:19+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:19+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001518s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:33+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001385s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:33+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001358s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:48:33+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001378s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:49:56+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:49:56+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003521s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:49:56+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:51:21+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002897s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:51:21+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001724s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:51:21+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:52:11+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:52:11+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:52:11+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:53:13+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:53:13+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001240s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:53:13+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:05+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:06+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:06+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:20+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001080s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:20+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:20+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:44+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:45+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:54:45+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:55:04+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001392s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:55:04+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001094s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:55:04+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:04+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002493s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:04+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001345s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:04+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002270s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:33+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001895s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:33+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:33+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:49+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:50+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001442s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:56:50+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002676s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:57:25+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002623s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:57:25+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002152s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:57:25+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001507s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:59:32+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:59:32+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T16:59:32+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:00:03+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:00:03+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:00:03+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:04:46+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002499s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:04:46+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001618s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:04:46+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:06:26+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001779s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:06:26+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:06:27+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:08:03+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:08:03+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001965s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:08:03+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002131s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:09:19+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:09:19+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:09:19+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:11:54+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001218s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:11:54+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:11:54+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:14:17+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:14:17+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001572s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:14:17+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001375s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:19:05+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:19:05+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:19:06+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001628s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:19:42+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:19:42+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:19:42+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:20:14+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001837s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:20:14+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001568s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:20:14+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002072s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:23:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:23:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002154s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:23:02+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:24:00+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:24:00+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002346s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:24:00+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001720s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:25:54+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:25:54+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001730s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:25:54+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003477s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:27:34+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:27:34+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001542s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:27:34+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001446s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:28:42+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:28:42+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003754s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:28:42+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002067s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:29:23+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:29:23+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:29:23+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001563s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:29:59+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:29:59+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:29:59+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:30:23+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:30:23+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011247s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:30:24+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:31:18+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002551s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:31:18+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000330s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001913s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:31:18+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001976s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:31:47+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001235s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:31:47+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:31:47+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001326s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:33:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:33:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:33:01+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001997s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:33:09+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001162s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:33:09+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:33:09+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001432s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:34:30+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001272s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:34:30+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001393s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:34:31+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001987s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:35:13+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:35:13+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001461s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:35:13+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005063s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:35:54+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:35:54+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:35:54+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:36:51+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001895s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:36:51+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T17:36:51+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:28:15+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001250s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:28:15+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:28:16+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:29:28+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001994s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:29:28+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:29:28+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:30:54+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:30:54+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:30:54+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024643s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:34:42+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001933s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:34:42+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001613s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:34:42+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003332s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:34:57+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:34:57+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:34:57+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:18+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:18+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:18+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008386s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:35+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:35+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001219s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:35+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001242s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:57+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001507s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:57+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001452s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:35:57+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:10+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002929s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:10+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002524s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:11+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001633s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:35+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003199s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:35+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:35+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:52+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:52+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:36:52+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:37:05+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001336s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:37:05+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:37:05+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:37:50+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:37:50+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001928s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:37:50+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002537s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:44:56+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:44:56+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:44:56+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001408s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:48:04+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:48:04+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:48:04+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:49:10+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001307s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:49:10+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001597s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:49:10+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:49:22+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:49:22+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:49:22+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:27+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:27+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:27+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001484s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:39+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001438s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:39+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:39+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002817s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:54+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001362s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:54+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:50:54+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002846s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:51:13+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001514s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:51:13+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:51:13+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:51:52+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:51:52+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:51:52+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006557s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:52:41+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:52:41+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001833s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:52:41+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:53:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:53:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001534s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:53:01+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:53:14+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002137s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:53:14+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001314s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:53:14+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:54:16+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:54:16+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.069034s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:54:16+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028712s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:54:40+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002490s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:54:40+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002457s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T18:54:40+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:01:51+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:01:53+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:04+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:07+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:07+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:07+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:10+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:30+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001648s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:30+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001268s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:30+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:31+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:02:33+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:34+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002776s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:34+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007287s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:34+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001296s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:35+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:42+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:42+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001323s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:42+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:03:46+08:00 ] ::1 /bootstrap/Public/showQuestionDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:04:23+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:04:23+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001221s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:04:23+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:05:01+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002517s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:05:01+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:05:01+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:08:53+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001487s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:08:53+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:08:53+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:14:19+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:14:19+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001299s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:14:19+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:14:46+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:14:46+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:14:46+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:16:05+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000508s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005577s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:16:05+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001597s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:16:05+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:20:59+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:20:59+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:20:59+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:21:51+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:21:51+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:21:51+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:22:14+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001817s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:22:14+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001443s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:22:14+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001641s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:22:24+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:22:24+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:22:24+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:23:37+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:23:37+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:23:37+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:25:34+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:25:34+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:25:34+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:26:44+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:26:44+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:26:44+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004423s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:26:55+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:26:55+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001476s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:26:55+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001862s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:27:24+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:27:24+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001411s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:27:24+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001513s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:28:47+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:28:47+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001733s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:28:47+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:29:04+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:29:04+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:29:04+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:29:40+08:00 ] ::1 /bootstrap/Public/Home/js/bootstrap.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:29:40+08:00 ] ::1 /bootstrap/Public/Home/js/popper.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+ERR: 无法加载模块:Public
+
+[ 2019-06-14T19:29:40+08:00 ] ::1 /bootstrap/Public/Home/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001336s ]
+ERR: 无法加载模块:Public
+

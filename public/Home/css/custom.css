@@ -1,0 +1,21 @@
+body,html{
+	margin: 0;
+	padding: 0;
+}
+/*各个终端的样式*/
+#maintain{
+	display: none;
+}
+
+/*媒体查询的样式*/
+@media only screen and (min-width: 1000px){
+	.navbar-nav{
+		position: relative;
+		right: 8%;
+	}
+}
+@media only screen and (max-width: 1000px){
+	.cancel{
+		display: none;
+	}
+}
